@@ -23,6 +23,18 @@
       "details": "Need to find one wuth good camera. NO china",
       "category": "todos",
       "id": 4
+    },
+    {
+      "title": "50$",
+      "details": "Don`t forget withdraw from binance",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "details": "Don`t forget 14th Sep. you have test",
+      "category": "reminders",
+      "id": 6
     }
   ]
 }
